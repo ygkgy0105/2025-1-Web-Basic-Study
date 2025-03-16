@@ -65,6 +65,6 @@
 
 ## 스터디 자료
 - HTML, CSS: 자체 제작 ppt
-- JavaScript: 뉴비를 위한 자바스크립트 - 알코
+- 자바스크립트 ES6+ 기초 핵심 문법 - 이룸코딩
 - FE: 처음 만난 리액트(React) by Inje Lee
 - BE: 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 by 김영한 (inflearn)
