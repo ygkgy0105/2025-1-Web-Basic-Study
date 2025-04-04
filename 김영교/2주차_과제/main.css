@@ -47,7 +47,7 @@ body {
 }
 
 .container .pokemons .pokemon .image {
-  transform: skewX(-15deg);
+  transform: skewX(15deg);
   width: 140%;
   height: 100%;
   background-position: center;
